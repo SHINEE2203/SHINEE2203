@@ -1,31 +1,43 @@
 Hi, I’m @Shinee! 👋
-I'm a Full Stack Developer passionate about building interactive and dynamic web applications. My expertise spans both front-end and back-end technologies, allowing me to create seamless user experiences and robust backend systems. I love exploring new technologies and frameworks, problem-solving, and contributing to open-source projects.
+I'm a 2025 graduate aspiring to become a **Data Analyst**, passionate about turning data into meaningful insights and solving real-world problems using data-driven approaches. I enjoy working on data analysis projects, exploring datasets, and creating impactful visualizations that support decision-making.
 
-👀 Interests
-Front-end and Full Stack development
-Exploring new technologies and frameworks
-Problem-solving and algorithm challenges
-Open-source contributions
+👀 **Interests**
 
-🎯 Skills
- Front-End: HTML, CSS, JavaScript, Bootstrap, React, Angular
- Back-End: PHP, SQL, XAMPP, Java
- Tools: Git, GitHub, VS Code
- Other: API integration
+* Data Analysis and Data Visualization
+* Exploring real-world datasets
+* Problem-solving using data
+* Building dashboards and reports
+* Learning new data tools and technologies
 
-🌱Currently Learning
-  MERN Stack: Enhancing my skills as a Full Stack Developer
+🎯 **Skills**
 
-💞️ Looking to Collaborate On
-  Open-source Projects: Especially those related to front-end development or web application development
-  
-📫 How to Reach Me
-   Email: shineevasudevan@gmail.com
-   LinkedIn: [Shinee Vasudevan](https://www.linkedin.com/in/shinee-vasudevan2603/)
-   GitHub: [@SHINEE2203](https://github.com/SHINEE2203)
+* **Data Analysis Tools:** Excel, SQL, Python
+* **Visualization Tools:** Power BI, Tableau
+* **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+* **Database:** SQL
+* **Other:** Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Creation
 
-😄 Pronouns: She/Her
+🌱 **Currently Learning**
 
-⚡ Fun Fact
-I'm also passionate about sports!
-Feel free to explore my repositories and get in touch if you'd like to collaborate or just chat about tech and sports! 😊
+* Advanced SQL and Python for Data Analysis
+* Power BI & Tableau (Advanced Dashboarding)
+* Real-time Data Analytics Projects
+
+💞️ **Looking to Collaborate On**
+
+* Data Analysis Projects
+* Dashboard Development Projects
+* Open-source projects related to data analytics
+
+📫 **How to Reach Me**
+
+* Email: [shineevasudevan@gmail.com](mailto:shineevasudevan@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/shinee-vasudevan2603/
+* GitHub: https://github.com/SHINEE2203
+
+😄 **Pronouns:** She/Her
+
+⚡ **Fun Fact**
+I enjoy working with data and also have a passion for sports!
+
+Feel free to explore my repositories and connect with me if you'd like to collaborate or discuss data analytics! 😊
